@@ -1,0 +1,10 @@
+Here is a list of hyper-parameter used in different datasets (results after cross validation).
+
+For simulated data,
+- use default hyper-parameters.
+
+For real-life data,
+- swan, gss, tadpole -> use default hyper-parameters
+- swan_small -> lr=1e-4, lr_indv_embedding=1e-3
+- gss_small -> lr=lr_indv_embedding=1e-4
+- tadpole_small -> lr_indv_embedding=1e-1

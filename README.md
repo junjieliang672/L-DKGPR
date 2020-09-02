@@ -31,3 +31,17 @@ To run our algorithm, you should first try`python L-DKGPR.py --help` to check th
 ## Baseline models
 
 The code for our baseline models are located in baseline_model. 
+
+
+
+### Citation
+
+```
+@article{liang2020longitudinal,
+  title={Longitudinal Deep Kernel Gaussian Process Regression},
+  author={Liang, Junjie and Wu, Yanting and Xu, Dongkuan and Honavar, Vasant},
+  journal={arXiv preprint arXiv:2005.11770},
+  year={2020}
+}
+```
+

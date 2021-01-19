@@ -1,5 +1,5 @@
 # L-DKGPR
- Longitudinal Deep Kernel Gaussian Process
+ Longitudinal Deep Kernel Gaussian Process Regression
 
 
 
